@@ -1,4 +1,3 @@
 # Codes_Go
 Repositorio de Prueba (Primer semestre de estudio)
-amongus
-cuando dices esta bonito pero piensas esta culero
+Buenas, El objetivo por el que se crea este Repositorio es meramente probar como funciona esta pagina, con la prespectiva que de un futuro se use de manera profesional.
